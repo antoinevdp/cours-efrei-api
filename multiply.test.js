@@ -1,3 +1,4 @@
+import {expect, describe, test} from '@jest/globals';
 import { Multiply } from "./multiply";
 
 describe('testing multiply function', () => {
