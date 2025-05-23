@@ -15,4 +15,6 @@ jobs:
           node-version: '23.x'
       - run: npm install
       - run: npm run test
+      - name: check for lint error
+        run: npm run lint
 
