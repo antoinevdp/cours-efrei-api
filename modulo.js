@@ -1,3 +1,3 @@
-export function Mod(x, y) {
-    return Math.Mod(x, y );
+export function Modulo(x, y) {
+    return Math.Modulo(x, y );
 }
